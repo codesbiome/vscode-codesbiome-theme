@@ -2,7 +2,7 @@
   "name": "vscode-codesbiome-theme",
   "displayName": "vscode-codesbiome-theme",
   "description": "A dark purple theme for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "codesbiome",
   "repository": {
     "type": "git",
