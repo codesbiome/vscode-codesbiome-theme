@@ -39,7 +39,6 @@ With Terminal
 If you're using Windows 10, these global settings might provide you a better experience.
 
 ```json
-{
   "editor.fontSize": 14,
   "editor.lineHeight": 26,
   "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
@@ -50,7 +49,6 @@ If you're using Windows 10, these global settings might provide you a better exp
   "material-icon-theme.activeIconPack": "vue_vuex",
   "material-icon-theme.opacity": 0.8,
   "breadcrumbs.filePath": "last"
-}
 ```
 
 <br />
