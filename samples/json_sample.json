@@ -1,0 +1,22 @@
+{
+  "name": "Codesbiome Theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#14161C",
+    "editor.foreground": "#c9c9d1",
+    "editor.lineHighlightBackground": "#171921",
+    "editor.selectionBackground": "#232733",
+    "editor.inactiveSelectionBackground": "#232733",
+    "editor.selectionHighlightBackground": "#232733",
+    "editor.selectionHighlightBorder": "#272B38",
+    "editorIndentGuide.background": "#1B1E26",
+    "editorIndentGuide.activeBackground": "#242833",
+    "editorBracketMatch.border": "#464652",
+    "editorBracketMatch.background": "#33333D",
+    "editorLineNumber.foreground": "#434352",
+    "editorGutter.background": "#16181F",
+    "editorCursor.foreground": "#ffd000da",
+    "editorGroupHeader.tabsBackground": "#16181F",
+    "editorGroup.border": "#5757eb"
+  }
+}

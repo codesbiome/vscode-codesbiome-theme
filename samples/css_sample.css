@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/** Custom Stylesheet */
+body {
+  background: #eaeaea;
+  padding: 10px 20px;
+  margin: 1.25rem;
+}
+
+#container {
+  font-family: 'Helvetica', Arial, sans-serif;
+  color: #333;
+}
+
+.heading {
+  padding: 2rem;
+  display: flex;
+}
+
+ul > li:first-child {
+  color: #333;
+}

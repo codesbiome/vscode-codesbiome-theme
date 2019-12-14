@@ -1,0 +1,13 @@
+# This file is the normal yaml configuration file
+
+parameter:
+  services:
+    # Default configuration for services
+    _defaults:
+      autowire: true
+      autoconfigure: true
+
+    # Controllers are imported separetely to make sure service injection
+    App\Controller\:
+        resource: '../src/Controller',
+        tags: ['controller.service_arguments']
