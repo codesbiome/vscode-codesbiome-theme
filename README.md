@@ -28,10 +28,6 @@ With Terminal
 
 <img src="assets/s_json.png" />
 
-### CSharp
-
-<img src="assets/s_css.png" />
-
 <br />
 
 ## Tips
