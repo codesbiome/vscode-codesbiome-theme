@@ -15,3 +15,9 @@
 - Scrollbar colors
 - Peek View colors
 - Panel colors
+
+### 1.0.1
+
+- Added Svelte language support
+- Updated Javascript object property color
+- Updated Typescript object property color
