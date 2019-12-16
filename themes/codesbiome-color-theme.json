@@ -334,7 +334,8 @@
         "entity.name.module.js",
         "variable.import.parameter.js",
         "variable.other.class.js",
-        "variable.other.constant.property.js"
+        "variable.other.constant.property.js",
+        "variable.other.constant.property.ts"
       ],
       "settings": {
         "foreground": "#f78c6cc9"
