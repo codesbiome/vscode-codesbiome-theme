@@ -330,9 +330,14 @@
     },
     {
       "name": "Sub-methods",
-      "scope": ["entity.name.module.js", "variable.import.parameter.js", "variable.other.class.js"],
+      "scope": [
+        "entity.name.module.js",
+        "variable.import.parameter.js",
+        "variable.other.class.js",
+        "variable.other.constant.property.js"
+      ],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#f78c6cc9"
       }
     },
     {
@@ -400,7 +405,7 @@
       "name": "Deleted",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#ff5370e8"
       }
     },
     {
@@ -447,7 +452,7 @@
       "scope": ["source.js constant.other.object.key.js string.unquoted.label.js"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "foreground": "#ff5370e8"
       }
     },
     {

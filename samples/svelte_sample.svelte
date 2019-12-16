@@ -1,5 +1,12 @@
 <script>
   export let name;
+  export const FILTERS = {
+    SHOW_ALL: "SHOW_ALL",
+    SHOW_COMPLETED: "SHOW_COMPLETED",
+    SHOW_PENDING: "SHOW_PENDING"
+  };
+
+  let now = FILTERS.SHOW_ALL;
 </script>
 
 <style>
