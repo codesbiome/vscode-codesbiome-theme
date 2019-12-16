@@ -16,7 +16,7 @@
 - Peek View colors
 - Panel colors
 
-### 1.0.1
+### 1.1.0
 
 - Added Svelte language support
 - Updated Javascript object property color
