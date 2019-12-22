@@ -273,7 +273,8 @@
         "keyword.other.unit",
         "entity.other.attribute-name.pseudo-class.css",
         "punctuation.definition.list.begin.markdown",
-        "variable.other.readwrite.ts"
+        "variable.other.readwrite.ts",
+        "variable.other.readwrite.cs"
       ],
       "settings": {
         "foreground": "#7bbee0e3"
@@ -458,7 +459,10 @@
     },
     {
       "name": "JSON Key - Level 0",
-      "scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
+      "scope": [
+        "source.json meta.structure.dictionary.json support.type.property-name.json",
+        "variable.other.object.property.cs"
+      ],
       "settings": {
         "foreground": "#B58DC4"
       }
