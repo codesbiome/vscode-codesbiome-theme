@@ -21,3 +21,8 @@
 - Added Svelte language support
 - Updated Javascript object property color
 - Updated Typescript object property color
+
+### 1.1.1
+
+- Added SCSS language color changes
+- New variable/property colors included to use where needed

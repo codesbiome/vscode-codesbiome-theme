@@ -172,6 +172,20 @@
       }
     },
     {
+      "name": "Variables [2]",
+      "scope": ["variable.scss"],
+      "settings": {
+        "foreground": "#3eafa5"
+      }
+    },
+    {
+      "name": "Dim Variables / Properties",
+      "scope": ["support.type.vendored.property-name.css"],
+      "settings": {
+        "foreground": "#737373"
+      }
+    },
+    {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
