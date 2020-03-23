@@ -6,8 +6,8 @@
     "editor.background": "#14161C",
     "editor.foreground": "#c9c9d1",
     "editor.lineHighlightBackground": "#171921",
-    "editor.selectionBackground": "#232733",
-    "editor.inactiveSelectionBackground": "#232733",
+    "editor.selectionBackground": "#d0363652",
+    "editor.wordHighlightBackground": "#232733b6",
     "editor.selectionHighlightBackground": "#232733",
     "editor.selectionHighlightBorder": "#272B38",
     "editorIndentGuide.background": "#1B1E26",
@@ -133,6 +133,8 @@
     "panelTitle.inactiveForeground": "#c9c9d177",
     "panel.background": "#14161C",
     "panel.border": "#242733",
+    // Mini Map
+    "minimap.selectionHighlight": "#d0363652",
     // Other Globals
     "foreground": "#c9c9d1c5",
     "focusBorder": "#242733",
@@ -244,7 +246,11 @@
     },
     {
       "name": "Tag",
-      "scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
+      "scope": [
+        "entity.name.tag",
+        "meta.tag.sgml",
+        "markup.deleted.git_gutter"
+      ],
       "settings": {
         "foreground": "#B58DC4"
       }
@@ -317,7 +323,11 @@
     },
     {
       "name": "Class, Support",
-      "scope": ["support.type", "markup.changed.git_gutter", "support.type.sys-types"],
+      "scope": [
+        "support.type",
+        "markup.changed.git_gutter",
+        "support.type.sys-types"
+      ],
       "settings": {
         "foreground": "#C7A65D"
       }
@@ -373,7 +383,10 @@
     },
     {
       "name": "meta.method.js",
-      "scope": ["meta.class-method.js entity.name.function.js", "variable.function.constructor"],
+      "scope": [
+        "meta.class-method.js entity.name.function.js",
+        "variable.function.constructor"
+      ],
       "settings": {
         "foreground": "#82AAFF"
       }
@@ -465,7 +478,9 @@
     },
     {
       "name": "ES7 Bind Operator",
-      "scope": ["source.js constant.other.object.key.js string.unquoted.label.js"],
+      "scope": [
+        "source.js constant.other.object.key.js string.unquoted.label.js"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#ff5370e8"
@@ -555,14 +570,20 @@
     },
     {
       "name": "Markdown - Plain",
-      "scope": ["text.html.markdown", "punctuation.definition.list_item.markdown"],
+      "scope": [
+        "text.html.markdown",
+        "punctuation.definition.list_item.markdown"
+      ],
       "settings": {
         "foreground": "#c9c9d1"
       }
     },
     {
       "name": "Markdown - Markup Raw Inline",
-      "scope": ["text.html.markdown markup.inline.raw.markdown", "punctuation.definition.markdown"],
+      "scope": [
+        "text.html.markdown markup.inline.raw.markdown",
+        "punctuation.definition.markdown"
+      ],
       "settings": {
         "foreground": "#c792ead5"
       }

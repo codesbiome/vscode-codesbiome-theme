@@ -26,3 +26,9 @@
 
 - Added SCSS language color changes
 - New variable/property colors included to use where needed
+
+### 1.1.2
+
+- Editor selection background color added
+- Editor word highlight background color modified
+- Minimap selection background color added
