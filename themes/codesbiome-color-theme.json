@@ -203,7 +203,13 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier",
+        "support.type.primitive.js",
+        "support.type.primitive.tsx"
+      ],
       "settings": {
         "foreground": "#B58DC4"
       }
@@ -262,7 +268,8 @@
         "meta.function-call",
         "variable.function",
         "keyword.other.special-method",
-        "support.function.magic.php"
+        "support.function.magic.php",
+        "entity.name.type.js"
       ],
       "settings": {
         "foreground": "#C7A65D"
@@ -294,7 +301,10 @@
         "entity.other.attribute-name.pseudo-class.css",
         "punctuation.definition.list.begin.markdown",
         "variable.other.readwrite.ts",
-        "variable.other.readwrite.cs"
+        "variable.other.readwrite.cs",
+        "support.type.object.module.js",
+        "entity.name.type.tsx",
+        "variable.other.property.js"
       ],
       "settings": {
         "foreground": "#7bbee0e3"
@@ -360,7 +370,10 @@
         "variable.import.parameter.js",
         "variable.other.class.js",
         "variable.other.constant.property.js",
-        "variable.other.constant.property.ts"
+        "variable.other.constant.property.ts",
+        "entity.other.inherited-class.js",
+        "entity.other.inherited-class.tsx",
+        "punctuation.separator.key-value.js"
       ],
       "settings": {
         "foreground": "#f78c6cc9"
