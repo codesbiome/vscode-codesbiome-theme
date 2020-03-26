@@ -138,7 +138,8 @@
     // Other Globals
     "foreground": "#c9c9d1c5",
     "focusBorder": "#242733",
-    "selection.background": "#232733"
+    "selection.background": "#232733",
+    "gitDecoration.ignoredResourceForeground": "#bbbbbb63"
   },
   "tokenColors": [
     {
