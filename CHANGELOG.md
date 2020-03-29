@@ -32,3 +32,10 @@
 - Editor selection background color added
 - Editor word highlight background color modified
 - Minimap selection background color added
+
+### 1.2.0
+
+- Javascript JSX related color changes
+- TypeScript TSX related color changes
+- Git Ignored files color opacity changed
+- Updated README
