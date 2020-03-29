@@ -1,55 +1,61 @@
 # Codesbiome Theme
 
-A dark theme for Visual Studio Code editor with custom colors for Editor and UI Elements.
+Dark Theme for Visual Studio Code with custom colors for Editor & UI Elements.
+Theme is also suitable for working at Dim-Light Environments.
 
-## Screenshots
+<img src="assets/main.png" />
 
-### Javascript
+### Supported Languages
 
-<img src="assets/s_js_sidebar.png" />
+- CSS
+- SASS + SCSS
+- HTML
+- JavaScript
+- React + JSX
+- Markdown
+- TypeScript + TSX
+- JSON
+- YAML
+- XML
+- PHP
+- C#
+- C++
+- Svelte
 
-With Terminal
+<br>
 
-<img src="assets/s_js_terminal.png" />
+### Information & Tips
 
-### CSS
-
-<img src="assets/s_css.png" />
-
-### HTML
-
-<img src="assets/s_html.png" />
-
-### PHP
-
-<img src="assets/s_php.png" />
-
-### JSON
-
-<img src="assets/s_json.png" />
-
-<br />
-
-## Tips
-
-If you're using Windows 10, these global settings might provide you a better experience.
+If you're using Windows 10, these settings of `Visual Studio Code` might provide you a better experience :
 
 ```json
-  "editor.fontSize": 14,
+  "editor.fontSize": 15,
   "editor.lineHeight": 26,
-  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
   "editor.suggestFontSize": 13,
-  "terminal.integrated.fontFamily": "Fira Code",
-  "terminal.integrated.lineHeight": 1.4,
-  "workbench.iconTheme": "material-icon-theme",
-  "material-icon-theme.activeIconPack": "vue_vuex",
-  "material-icon-theme.opacity": 0.8,
-  "breadcrumbs.filePath": "last"
+  "editor.padding.top": 10,
+  "terminal.integrated.lineHeight": 1.4
 ```
 
-<br />
+- Text font used in screenshot files is `Jetbrains Mono`
+- File icons theme used in screenshot is `Material Icon Theme`
+- Terminal shell used in screenshot is `Cmder`
 
-## Issue or Request
+<br>
+### Issue or Requests
 
 Found anything invalid or have a request related to this project?
 Feel free to create New Issue at respository <a href="https://github.com/codesbiome/vscode-codesbiome-theme/issues">here</a>. Thank you!
+
+<br>
+
+---
+
+### Other Screenshots
+
+Terminals (Split) View with <a href="https://cmder.net/">Cmder</a> Terminal integration for VS Code. You can use any terminal tool you like :
+
+<img src="assets/terminals.png" />
+
+Split Tabs View :
+
+<img src="assets/split.png" />
