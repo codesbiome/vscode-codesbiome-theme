@@ -41,6 +41,7 @@ If you're using Windows 10, these settings of `Visual Studio Code` might provide
 - Terminal shell used in screenshot is `Cmder`
 
 <br>
+
 ### Issue or Requests
 
 Found anything invalid or have a request related to this project?
