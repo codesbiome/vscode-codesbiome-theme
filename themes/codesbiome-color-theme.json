@@ -222,7 +222,10 @@
         "storage.type.cs",
         "punctuation.section.embedded",
         "support.class.php",
-        "entity.name.scope-resolution.cpp"
+        "entity.name.scope-resolution.cpp",
+        "entity.other.inherited-class.js",
+        "entity.other.inherited-class.tsx",
+        "entity.name.type.tsx"
       ],
       "settings": {
         "foreground": "#E0957B"
@@ -304,7 +307,6 @@
         "variable.other.readwrite.ts",
         "variable.other.readwrite.cs",
         "support.type.object.module.js",
-        "entity.name.type.tsx",
         "variable.other.property.js",
         "variable.other.readwrite.tsx",
         "variable.other.readwrite.js"
@@ -374,8 +376,6 @@
         "variable.other.class.js",
         "variable.other.constant.property.js",
         "variable.other.constant.property.ts",
-        "entity.other.inherited-class.js",
-        "entity.other.inherited-class.tsx",
         "punctuation.separator.key-value.js"
       ],
       "settings": {
