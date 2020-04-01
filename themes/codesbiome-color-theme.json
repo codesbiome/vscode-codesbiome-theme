@@ -305,7 +305,9 @@
         "variable.other.readwrite.cs",
         "support.type.object.module.js",
         "entity.name.type.tsx",
-        "variable.other.property.js"
+        "variable.other.property.js",
+        "variable.other.readwrite.tsx",
+        "variable.other.readwrite.js"
       ],
       "settings": {
         "foreground": "#7bbee0e3"
