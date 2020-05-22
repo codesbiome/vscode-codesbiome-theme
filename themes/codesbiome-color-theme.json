@@ -179,7 +179,10 @@
       "scope": [
         "variable.scss",
         "entity.name.type.interface.tsx",
-        "entity.name.type.tsx"
+        "entity.name.type.tsx",
+        "entity.name.type.class.gdscript",
+        "support.class.dart",
+        "entity.name.type.ts"
       ],
       "settings": {
         "foreground": "#3eafa5"
@@ -251,7 +254,9 @@
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
         "punctuation.definition.tag.begin.svelte",
-        "punctuation.definition.tag.end.svelte"
+        "punctuation.definition.tag.end.svelte",
+        "constant.other.rgb-value.css",
+        "punctuation.definition.variable.less"
       ],
       "settings": {
         "foreground": "#B58DC4"
@@ -276,7 +281,8 @@
         "variable.function",
         "keyword.other.special-method",
         "support.function.magic.php",
-        "entity.name.type.js"
+        "entity.name.type.js",
+        "support.function.any-method.gdscript"
       ],
       "settings": {
         "foreground": "#C7A65D"
@@ -312,7 +318,8 @@
         "support.type.object.module.js",
         "variable.other.property.js",
         "variable.other.readwrite.tsx",
-        "variable.other.readwrite.js"
+        "variable.other.readwrite.js",
+        "variable.other.less"
       ],
       "settings": {
         "foreground": "#7bbee0e3"
