@@ -8,7 +8,8 @@ Theme is also suitable for working at Dim-Light Environments.
 ### Supported Languages
 
 - CSS
-- SASS + SCSS
+- SASS
+- LESS
 - HTML
 - JavaScript
 - React + JSX
@@ -21,6 +22,8 @@ Theme is also suitable for working at Dim-Light Environments.
 - C#
 - C++
 - Svelte
+- Dart
+- GDScript
 
 <br>
 
