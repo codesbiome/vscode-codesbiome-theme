@@ -39,3 +39,11 @@
 - TypeScript TSX related color changes
 - Git Ignored files color opacity changed
 - Updated README
+
+### 1.3.0
+
+- More scopes included for SASS & Typescript colors
+- Added Dart language color changes
+- Added GDScript language color changes
+- Added Less language color changes
+- Statusbar debugging state colors updated (finally)
