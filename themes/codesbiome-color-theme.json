@@ -42,6 +42,8 @@
     "statusBarItem.hoverBackground": "#1B1E26",
     "statusBarItem.activeBackground": "#1B1E26",
     "statusBar.border": "#050507",
+    "statusBar.debuggingBackground": "#d03636",
+    "statusBar.debuggingForeground": "#ffffff",
     // Terminal
     "terminal.selectionBackground": "#44485344",
     "terminal.background": "#14161C",
