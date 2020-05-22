@@ -176,7 +176,11 @@
     },
     {
       "name": "Variables [2]",
-      "scope": ["variable.scss"],
+      "scope": [
+        "variable.scss",
+        "entity.name.type.interface.tsx",
+        "entity.name.type.tsx"
+      ],
       "settings": {
         "foreground": "#3eafa5"
       }
@@ -224,8 +228,7 @@
         "support.class.php",
         "entity.name.scope-resolution.cpp",
         "entity.other.inherited-class.js",
-        "entity.other.inherited-class.tsx",
-        "entity.name.type.tsx"
+        "entity.other.inherited-class.tsx"
       ],
       "settings": {
         "foreground": "#E0957B"
@@ -376,7 +379,8 @@
         "variable.other.class.js",
         "variable.other.constant.property.js",
         "variable.other.constant.property.ts",
-        "punctuation.separator.key-value.js"
+        "punctuation.separator.key-value.js",
+        "punctuation.separator.key-value.tsx"
       ],
       "settings": {
         "foreground": "#f78c6cc9"
