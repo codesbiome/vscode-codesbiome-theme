@@ -47,3 +47,13 @@
 - Added GDScript language color changes
 - Added Less language color changes
 - Statusbar debugging state colors updated (finally)
+
+### 1.3.1
+
+- Editor Tabs background color improvements
+- Editor Active Tabs border color added
+- Editor Modified Tabs border color added
+- Editor Group header background color improvements
+- Removed unnecessary assets
+- Updated README
+- Screenshots Updated

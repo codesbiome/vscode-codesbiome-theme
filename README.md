@@ -1,29 +1,57 @@
 # Codesbiome Theme
 
-Dark Theme for Visual Studio Code with custom colors for Editor & UI Elements.
-Theme is also suitable for working at Dim-Light Environments.
+> Custom Dark Theme for `Visual Studio Code` with clear colors for Code Syntax & UI Elements. Provides easy to ready environment when working at Night (Dim Light).
 
 <img src="assets/main.png" />
 
+<br />
+<br />
+
+<details>
+  <summary>Screenshot : <code>HTML</code></summary>
+  <br />
+  <img src="assets/html.png" alt="Screenshot: HTML">
+</details>
+
+<details>
+  <summary>Screenshot : <code>JSX/TSX</code></summary>
+  <br />
+  <img src="assets/jsx_tsx.png" alt="Screenshot: HTML">
+</details>
+
+<details>
+  <summary>Screenshot : <code>CSS</code></summary>
+  <br />
+  <img src="assets/css.png" alt="Screenshot: HTML">
+</details>
+
+<details>
+  <summary>Screenshot : <code>LESS</code></summary>
+  <br />
+  <img src="assets/less.png" alt="Screenshot: HTML">
+</details>
+
+<br />
+
 ### Supported Languages
 
-- CSS
-- SASS
-- LESS
-- HTML
-- JavaScript
-- React + JSX
-- Markdown
-- TypeScript + TSX
-- JSON
-- YAML
-- XML
-- PHP
-- C#
-- C++
-- Svelte
-- Dart
-- GDScript
+- `JavaScript`
+- `TypeScript`
+- `HTML`
+- `CSS`
+- `LESS`
+- `SASS (SCSS)`
+- `JSX (React)`
+- `XML (XAML/YAML)`
+- `Markdown`
+- `JSON`
+- `YAML`
+- `PHP`
+- `C#`
+- `C++`
+- `Svelte`
+- `Dart`
+- `GDScript`
 
 <br>
 
@@ -51,15 +79,3 @@ Found anything invalid or have a request related to this project?
 Feel free to create New Issue at respository <a href="https://github.com/codesbiome/vscode-codesbiome-theme/issues">here</a>. Thank you!
 
 <br>
-
----
-
-### Other Screenshots
-
-Terminals (Split) View with <a href="https://cmder.net/">Cmder</a> Terminal integration for VS Code. You can use any terminal tool you like :
-
-<img src="assets/terminals.png" />
-
-Split Tabs View :
-
-<img src="assets/split.png" />

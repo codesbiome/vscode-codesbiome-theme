@@ -17,7 +17,7 @@
     "editorLineNumber.foreground": "#434352",
     "editorGutter.background": "#16181F",
     "editorCursor.foreground": "#ffd000da",
-    "editorGroupHeader.tabsBackground": "#16181F",
+    "editorGroupHeader.tabsBackground": "#191c23",
     "editorGroup.border": "#282C38",
     // -- Suggestion (Intellisense Popup)
     "editorSuggestWidget.highlightForeground": "#a672bb",
@@ -79,10 +79,13 @@
     // Tab
     "tab.activeBackground": "#14161C",
     "tab.activeForeground": "#c9c9d1",
-    "tab.inactiveBackground": "#16181F",
+    "tab.inactiveBackground": "#191c23",
     "tab.inactiveForeground": "#c9c9d177",
     "tab.hoverBackground": "#14161C",
-    "tab.border": "#16181F",
+    "tab.activeBorderTop": "#2e4155",
+    "tab.activeBorder": "#2e415500",
+    "tab.activeModifiedBorder": "#974040",
+    "tab.inactiveModifiedBorder": "#552e2e",
     // Menu
     "menu.background": "#191C24",
     "menu.foreground": "#c9c9d1",
